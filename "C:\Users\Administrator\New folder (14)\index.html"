@@ -1,0 +1,8 @@
+# تهيئة git فقط لهذا المجلد
+git init
+
+# إضافة الملف index.html فقط
+git add index.html
+
+# إنشاء commit
+git commit -m "رفع لعبة جاسم"
